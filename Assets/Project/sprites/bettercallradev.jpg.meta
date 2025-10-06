@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bettercallradev_0: 8523817772893886867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

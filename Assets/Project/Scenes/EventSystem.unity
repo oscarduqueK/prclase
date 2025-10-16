@@ -390,7 +390,7 @@ MonoBehaviour:
   OnAlexDeath:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1612885105}
         m_TargetAssemblyTypeName: Manager, Assembly-CSharp
         m_MethodName: 
         m_Mode: 3

@@ -1243,6 +1243,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2122145452}
   - component: {fileID: 2122145453}
+  - component: {fileID: 2122145454}
   m_Layer: 0
   m_Name: BossMusicManager
   m_TagString: Untagged
@@ -1288,6 +1289,24 @@ MonoBehaviour:
   - {fileID: 4205412586441182982, guid: a433cecdd0cd3cc49b96f278b1d8c482, type: 2}
   - {fileID: -6291787930237786007, guid: a433cecdd0cd3cc49b96f278b1d8c482, type: 2}
   image: {fileID: 985870464}
+--- !u!114 &2122145454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2122145451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66451a21cf927864e838a4fc9c5c9b33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chords: {fileID: 1058752200}
+  drums: {fileID: 211586407}
+  bounce: {fileID: 1865695985}
+  trumpet: {fileID: 1827341427}
+  master: {fileID: 1058752200}
+  phaseDuration: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
